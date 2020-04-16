@@ -1,0 +1,3 @@
+C:/Users/Zohan Marediya/CLionProjects/images/cmake-build-debug/CMakeFiles/images.dir
+C:/Users/Zohan Marediya/CLionProjects/images/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zohan Marediya/CLionProjects/images/cmake-build-debug/CMakeFiles/rebuild_cache.dir
